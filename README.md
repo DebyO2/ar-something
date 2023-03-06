@@ -1,2 +1,2 @@
 # ar-something
-nothing to see here
+be in a well lit room also make sure ur phone supports ARcore google
